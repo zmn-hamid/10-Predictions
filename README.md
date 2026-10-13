@@ -1,6 +1,6 @@
 # 10 Predictions About the Future of Software Development
 
-AI will definitely have some impact on the industry. I refuse to believe that the industry will one day cease to exist. Predicting what will happen is not only extremely interesting to think about, but also important if you want to stay ahead of—or at least in line with—the industry, avoiding pitfalls and bad practices that could harm you in the long run.
+AI will definitely have some impact on the industry. I refuse to believe that it will one day cease to exist. Predicting what will happen is not only extremely interesting to think about, but also important if you want to stay ahead of—or at least in line with—the industry, avoiding pitfalls and bad practices that could harm you in the long run.
 
 Not only do I not claim to know what will happen, but I actually don't believe most of the things I'm predicting here, either. I've explained in my book, *[A Philosophically Technical View Into Generative AI](https://genai-book.kyrovert.com/)*, why I think vibe-coding (delegating problem-solving to AI specifically) is a very bad practice. So naturally, I can't be optimistic about its future. But the reality is that the market has been convinced that vibe-coding is the way to go, and there's no turning back.
 
